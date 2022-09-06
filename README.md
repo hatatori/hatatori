@@ -3,7 +3,7 @@
 
 ## 💻 &nbsp;Sobre
 - 🏠 Residente em CE.
-- 💪 Forte em linguagem web principalmente, javascript.
+- 💪 Forte em linguagem web, principalmente javascript.
 - 🚀 Entusiata de programação desde os 10 anos
 - 📫 E-mail: kcireh.i@gmail.com
 - 🥋 Admiro a cultura Japonesa e Coreana
