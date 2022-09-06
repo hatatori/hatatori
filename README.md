@@ -19,13 +19,15 @@ Sobre:
 
      
 <h3>📊 Dados estatísticos</h3>
-
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hatatori&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="hatatori" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hatatori&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hatatori&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="hatatori" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatatori&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatatori&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hatatori" />
+
+<h3>🧑‍💻 Linguagens e competências</h3>
+[![Linguagens](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap,wordpress)](https://skillicons.dev)
