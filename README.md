@@ -30,4 +30,4 @@ Sobre:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatatori&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hatatori" />
 
 <h3>🧑‍💻 Linguagens e competências</h3>
-[![Linguagens](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap,wordpress)](https://skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap,wordpress)](https://skillicons.dev)
