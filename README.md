@@ -2,7 +2,7 @@
 <h3> <img src='https://github.githubassets.com/images/mona-loading-default.gif' width='30px' style='vertical-align:middle'> Olá 👋, sou a Hatatori, desenvolvedor fullstack</h3>
 
 ## 💻 &nbsp;Sobre
-- 🏠 Residente em CE sem saber se sou pleno ou senior.
+- 🏠 Residente em CE.
 - 💪 Forte em linguagem web principalmente, javascript.
 - 🚀 Entusiata de programação desde os 10 anos
 - 📫 E-mail: kcireh.i@gmail.com
