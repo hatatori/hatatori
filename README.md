@@ -2,7 +2,6 @@
 <h3> <img src='https://github.githubassets.com/images/mona-loading-default.gif' width='30px' style='vertical-align:middle'> Olá 👋, sou a Hatatori, desenvolvedor fullstack</h3>
 
 ## 💻 &nbsp;Sobre
-Sobre:
 - 🏠 Residente em CE sem saber se sou pleno ou senior.
 - 💪 Forte em linguagem web principalmente, javascript.
 - 🚀 Entusiata de programação desde os 10 anos
