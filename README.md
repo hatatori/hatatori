@@ -1,1 +1,1 @@
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg|width=20px)
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" />    </p>
