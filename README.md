@@ -1,4 +1,4 @@
-## 💻 &nbsp;Apresentação
+## 🙆‍♂️ &nbsp;Apresentação
 <h3> <img src='https://github.githubassets.com/images/mona-loading-default.gif' width='30px' style='vertical-align:middle'> Olá 👋, sou a Hatatori, desenvolvedor fullstack</h3>
 
 ## 💻 &nbsp;Sobre
