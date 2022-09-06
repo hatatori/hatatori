@@ -1,1 +1,4 @@
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://hatatori.github.io/c?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" />    </p>
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatatori&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/>  
