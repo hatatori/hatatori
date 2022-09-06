@@ -17,6 +17,8 @@ Sobre:
 <a href="https://discord.gg/mhp7HjwyaU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:kcireh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<h3>🧑‍💻 Linguagens e habilidades</h3>
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,bootstrap,php,vue,sass,laravel,tailwind,photoshop,python)](https://skillicons.dev)
      
 <h3>📊 Dados estatísticos</h3>
 <img align="center"
@@ -29,6 +31,4 @@ Sobre:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatatori&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hatatori" />
 
-<h3>🧑‍💻 Linguagens e habilidades</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,bootstrap,php,vue,sass,laravel,tailwind,photoshop,python)](https://skillicons.dev)
