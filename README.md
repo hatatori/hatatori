@@ -20,8 +20,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-DDDDDD?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-DDDDDD?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-DDDDDD?style=for-the-badge&logo=react)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-DDDDDD?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![SQLite](https://img.shields.io/badge/-SQLite-DDDDDD?style=for-the-badge&logo=sqlite)
 ![PHP](https://img.shields.io/badge/-php-DDDDDD?style=for-the-badge&logo=php)
 ![PHOTOSHOP](https://img.shields.io/badge/-photoshop-DDDDDD?style=for-the-badge&logo=photoshop)
 ![MYSQL](https://img.shields.io/badge/-mysql-DDDDDD?style=for-the-badge&logo=mysql)
